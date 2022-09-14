@@ -4,12 +4,12 @@
 
 ## Steps to be followed:-
     
-1.I will start by loading the digits dataset from sklearn datasets.
-2.Import neccesary libraries that will be used in my dataset.
-3.Define number of clusters, K, which need to be found out. 
-4.Randomly select K cluster centroids.
-5.For each observation, find out the euclidean distance between the observation and all the K cluster centers of all distances. 
-6.Find the nearest distance between the observation and one of the K cluster centroids (cluster centers) and assign the observation to that cluster.
-7.Move the K-centroids to the center of the points assigned to it and visualize. 
-8.Repeat the above two steps until there is no change in the cluster centroids.
-9.Finding K-Means Clustering using elbow method by optimizing K.
+* I will start by loading the digits dataset from sklearn datasets.
+* Import neccesary libraries that will be used in my dataset.
+* Define number of clusters, K, which need to be found out. 
+* Randomly select K cluster centroids.
+* For each observation, find out the euclidean distance between the observation and all the K cluster centers of all distances. 
+* Find the nearest distance between the observation and one of the K cluster centroids (cluster centers) and assign the observation to that cluster.
+* Move the K-centroids to the center of the points assigned to it and visualize. 
+* Repeat the above two steps until there is no change in the cluster centroids.
+* Finding K-Means Clustering using elbow method by optimizing K.

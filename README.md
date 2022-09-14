@@ -6,7 +6,7 @@ Contributions are most welcome, whether you’ve fixed a bug or introduced a new
 
 ## Introduction
 
-* The data set I am going to use contains images of hand-written digits with 10 classes where each class refers to a digit. This is a copy of the test set of the UCI ML hand-written digits datasets.They are grouped into pixels.
+* The data set I am going to use contains images of hand-written digits with 10 classes where each class refers to a digit. This is a copy of the test set of the UCI ML hand-written digits datasets. They are grouped into pixels.
 
 ## Steps to be followed:-
     
